@@ -5,7 +5,7 @@ CS495_801
 Over the summer, I did research with CyberWater with Dr. Lin, did the TechPoint S.O.S. Challenge, received a
 $500 stipend for that, and I finnally quit my job at Dollar General. I'm very proud of the latter. I hate
 that place. I also fumbled around with some different tools, configured a Raspberry Pi to run my own website
-on the Dark Web (nothing illegal, just a lot fo CSS magic [no JavaScript]). I also built my own desk light 
+on the Dark Web (nothing illegal, just a lot of CSS magic [no JavaScript]). I also built my own desk light 
 from a broken nightlight that sits on the bottomside of my desk so I can shine it on my keyboard at night without
 shining the light in my eyes. I also rescued a stray cat. His name is Pesto. He's small and orange and he loves to
 lick hands :)
